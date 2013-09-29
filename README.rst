@@ -1,4 +1,4 @@
 Readme for python-math-utils
 ------------------------------
 
-``from APP-NAME import *``
+``from pymathutils import percent``
