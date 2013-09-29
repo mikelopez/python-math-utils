@@ -5,7 +5,7 @@ setup(name='python-math-utils',
       description='Helps with common math functions.',
       author='',
       license='MIT',
-      py_modules=['pymathutils.percent'],
+      py_modules=['pymathutils.pymathutils'],
       classifiers=[
           'Development Status :: 5 - Production/Stable',
           'Environment :: Console',
