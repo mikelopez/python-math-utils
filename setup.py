@@ -2,10 +2,10 @@ from distutils.core import setup
 
 setup(name='python-math-utils',
       version='0.1',
-      description='Description for python-math-utils',
+      description='Helps with common math functions.',
       author='',
       license='MIT',
-      py_modules=['python-math-utils'],
+      py_modules=['pymathutils'],
       classifiers=[
           'Development Status :: 5 - Production/Stable',
           'Environment :: Console',
