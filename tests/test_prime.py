@@ -8,8 +8,8 @@ from pymathutils import *
 # debug types
 i, e, w = "INFO", "ERROR", "WARNING"
 
-class TestStripeCharges(unittest.TestCase):
-    """Test the stripe charge functionality."""
+class TestPrimeNumberCheck(unittest.TestCase):
+    """Tests if a number is a prime number."""
 
     def setUp(self):
         pass
