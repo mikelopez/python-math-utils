@@ -1,7 +1,6 @@
 import sys
 import unittest
 from decimal import Decimal
-from termprint import *
 sys.path.append('../')
 from pymathutils.prime import *
 from actual_primes import primes
